@@ -1,7 +1,7 @@
 <!--
  * @Author       : JonnyZhang 71881972+jonnyzhang02@users.noreply.github.com
- * @LastEditTime : 2023-07-20 16:30
- * @FilePath     : /d2l-zh-pytorch/README.md
+ * @LastEditTime : 2023-07-22 15:30
+ * @FilePath     : \d2l-zh-pytorch\README.md
  * 
  * coded by ZhangYang@BUPT, my email is zhangynag0207@bupt.edu.cn
 -->
@@ -14,3 +14,4 @@
 7.19 完成
 
 ## [chapter_multilayer-perceptrons-感知机](./chapter_multilayer-perceptrons/.md)
+
