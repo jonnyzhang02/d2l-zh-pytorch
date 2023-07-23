@@ -1,6 +1,6 @@
 <!--
  * @Author       : JonnyZhang 71881972+jonnyzhang02@users.noreply.github.com
- * @LastEditTime : 2023-07-23 17:47
+ * @LastEditTime : 2023-07-23 20:53
  * @FilePath     : \d2l-zh-pytorch\README.md
  * 
  * coded by ZhangYang@BUPT, my email is zhangynag0207@bupt.edu.cn
@@ -23,8 +23,8 @@
     - [欠拟合和过拟合](./chapter_multilayer-perceptrons/.md#%E6%AC%A0%E6%8B%9F%E5%90%88%E5%92%8C%E8%BF%87%E6%8B%9F%E5%90%88)
     - [正则化方法](./chapter_multilayer-perceptrons/.md#%E6%AD%A3%E5%88%99%E5%8C%96%E6%96%B9%E6%B3%95)
         - [权重衰退](./chapter_multilayer-perceptrons/.md#%E6%9D%83%E9%87%8D%E8%A1%B0%E9%80%80)
-            - [L1正则化](#l1%E6%AD%A3%E5%88%99%E5%8C%96)
-            - [L2正则化](#l2%E6%AD%A3%E5%88%99%E5%8C%96)
+            - [L1正则化](./chapter_multilayer-perceptrons/.md#l1%E6%AD%A3%E5%88%99%E5%8C%96)
+            - [L2正则化](./chapter_multilayer-perceptrons/.md#l2%E6%AD%A3%E5%88%99%E5%8C%96)
         - [丢弃法](./chapter_multilayer-perceptrons/.md#%E4%B8%A2%E5%BC%83%E6%B3%95)
     - [数值稳定性和模型初始化](./chapter_multilayer-perceptrons/.md#%E6%95%B0%E5%80%BC%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%A8%A1%E5%9E%8B%E5%88%9D%E5%A7%8B%E5%8C%96)
         - [数值稳定性](./chapter_multilayer-perceptrons/.md#%E6%95%B0%E5%80%BC%E7%A8%B3%E5%AE%9A%E6%80%A7)
@@ -35,6 +35,16 @@
 
 7.23 完成
 
+## [chapter_deep-learning-computation-深度学习计算](./chapter_deep-learning-computation/.md)
+
+- [深度学习计算](./chapter_deep-learning-computation/.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%AE%A1%E7%AE%97)
+    - [模型构造](./chapter_deep-learning-computation/.md#%E6%A8%A1%E5%9E%8B%E6%9E%84%E9%80%A0)
+    - [参数管理](./chapter_deep-learning-computation/.md#%E5%8F%82%E6%95%B0%E7%AE%A1%E7%90%86)
+    - [自定义层](./chapter_deep-learning-computation/.md#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%82)
+    - [读写文件](./chapter_deep-learning-computation/.md#%E8%AF%BB%E5%86%99%E6%96%87%E4%BB%B6)
+    - [使用和购买GPU](./chapter_deep-learning-computation/.md#%E4%BD%BF%E7%94%A8%E5%92%8C%E8%B4%AD%E4%B9%B0gpu)
+
+7.23 完成
 
 
 
