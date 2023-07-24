@@ -1,6 +1,6 @@
 <!--
  * @Author       : JonnyZhang 71881972+jonnyzhang02@users.noreply.github.com
- * @LastEditTime : 2023-07-23 22:36
+ * @LastEditTime : 2023-07-24 11:31
  * @FilePath     : \d2l-zh-pytorch\README.md
  * 
  * coded by ZhangYang@BUPT, my email is zhangynag0207@bupt.edu.cn
@@ -47,6 +47,30 @@
 7.23 完成
 
 ## [chapter_convolutional-neural-networks-卷积神经网络](./chapter_convolutional-neural-networks/.md)  
+
+- [卷积神经网络](./chapter_convolutional-neural-networks/.md#%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+    - [从全连接神经网络到卷积神经网络](./chapter_convolutional-neural-networks/.md#%E4%BB%8E%E5%85%A8%E8%BF%9E%E6%8E%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%88%B0%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+        - [四维的全连接层](./chapter_convolutional-neural-networks/.md#%E5%9B%9B%E7%BB%B4%E7%9A%84%E5%85%A8%E8%BF%9E%E6%8E%A5%E5%B1%82)
+        - [关于平移不变性](./chapter_convolutional-neural-networks/.md#%E5%85%B3%E4%BA%8E%E5%B9%B3%E7%A7%BB%E4%B8%8D%E5%8F%98%E6%80%A7)
+        - [局部性](./chapter_convolutional-neural-networks/.md#%E5%B1%80%E9%83%A8%E6%80%A7)
+    - [卷积层](./chapter_convolutional-neural-networks/.md#%E5%8D%B7%E7%A7%AF%E5%B1%82)
+        - [卷积层代码](./chapter_convolutional-neural-networks/.md#%E5%8D%B7%E7%A7%AF%E5%B1%82%E4%BB%A3%E7%A0%81)
+    - [卷积层的填充和步幅](./chapter_convolutional-neural-networks/.md#%E5%8D%B7%E7%A7%AF%E5%B1%82%E7%9A%84%E5%A1%AB%E5%85%85%E5%92%8C%E6%AD%A5%E5%B9%85)
+        - [填充（padding）](./chapter_convolutional-neural-networks/.md#%E5%A1%AB%E5%85%85padding)
+        - [步幅（stride）](./chapter_convolutional-neural-networks/.md#%E6%AD%A5%E5%B9%85stride)
+        - [padding代码](./chapter_convolutional-neural-networks/.md#padding%E4%BB%A3%E7%A0%81)
+    - [多个输入和输出通道](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E4%B8%AA%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA%E9%80%9A%E9%81%93)
+        - [多个输入通道](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E4%B8%AA%E8%BE%93%E5%85%A5%E9%80%9A%E9%81%93)
+        - [多个输出通道](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E4%B8%AA%E8%BE%93%E5%87%BA%E9%80%9A%E9%81%93)
+        - [*1卷积核](./chapter_convolutional-neural-networks/.md#1%E5%8D%B7%E7%A7%AF%E6%A0%B8)
+        - [总结](./chapter_convolutional-neural-networks/.md#%E6%80%BB%E7%BB%93)
+        - [多通道代码](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E9%80%9A%E9%81%93%E4%BB%A3%E7%A0%81)
+    - [池化层](./chapter_convolutional-neural-networks/.md#%E6%B1%A0%E5%8C%96%E5%B1%82)
+        - [二维最大池化](./chapter_convolutional-neural-networks/.md#%E4%BA%8C%E7%BB%B4%E6%9C%80%E5%A4%A7%E6%B1%A0%E5%8C%96)
+        - [平均池化](./chapter_convolutional-neural-networks/.md#%E5%B9%B3%E5%9D%87%E6%B1%A0%E5%8C%96)
+        - [pooling代码](./chapter_convolutional-neural-networks/.md#pooling%E4%BB%A3%E7%A0%81)
+    - [LeNet](./chapter_convolutional-neural-networks/.md#lenet)
+        - [LeNet代码](./chapter_convolutional-neural-networks/.md#lenet%E4%BB%A3%E7%A0%81)
 
 
 
