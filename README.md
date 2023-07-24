@@ -1,6 +1,6 @@
 <!--
  * @Author       : JonnyZhang 71881972+jonnyzhang02@users.noreply.github.com
- * @LastEditTime : 2023-07-24 11:38
+ * @LastEditTime : 2023-07-24 15:35
  * @FilePath     : \d2l-zh-pytorch\README.md
  * 
  * coded by ZhangYang@BUPT, my email is zhangynag0207@bupt.edu.cn
@@ -66,7 +66,5 @@
     - [LeNet](./chapter_convolutional-neural-networks/.md#lenet)
         - [LeNet代码](./chapter_convolutional-neural-networks/.md#lenet%E4%BB%A3%E7%A0%81)
 
-
-
-
+## [chapter_modern_convolutional-networks-现代卷积神经网络](./chapter_convolutional-modern/.md)
 
