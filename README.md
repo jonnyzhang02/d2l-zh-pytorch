@@ -1,6 +1,6 @@
 <!--
  * @Author       : JonnyZhang 71881972+jonnyzhang02@users.noreply.github.com
- * @LastEditTime : 2023-07-24 11:31
+ * @LastEditTime : 2023-07-24 11:38
  * @FilePath     : \d2l-zh-pytorch\README.md
  * 
  * coded by ZhangYang@BUPT, my email is zhangynag0207@bupt.edu.cn
@@ -10,8 +10,6 @@
 ## [chapter_preliminaries](./chapter_preliminaries/linear-algebra.ipynb)
 
 ## [chapter_linear-networks-线性回归](./chapter_linear-networks/.md)
-
-7.19 完成
 
 ## [chapter_multilayer-perceptrons-感知机](./chapter_multilayer-perceptrons/.md/)
 
@@ -33,8 +31,6 @@
             - [激活函数](./chapter_multilayer-perceptrons/.md#%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0)
     - [Kaggle房价预测](./chapter_multilayer-perceptrons/.md#kaggle%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B)
 
-7.23 完成
-
 ## [chapter_deep-learning-computation-深度学习计算](./chapter_deep-learning-computation/.md)
 
 - [深度学习计算](./chapter_deep-learning-computation/.md#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%AE%A1%E7%AE%97)
@@ -43,8 +39,6 @@
     - [自定义层](./chapter_deep-learning-computation/.md#%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%82)
     - [读写文件](./chapter_deep-learning-computation/.md#%E8%AF%BB%E5%86%99%E6%96%87%E4%BB%B6)
     - [使用和购买GPU](./chapter_deep-learning-computation/.md#%E4%BD%BF%E7%94%A8%E5%92%8C%E8%B4%AD%E4%B9%B0gpu)
-
-7.23 完成
 
 ## [chapter_convolutional-neural-networks-卷积神经网络](./chapter_convolutional-neural-networks/.md)  
 
@@ -62,7 +56,7 @@
     - [多个输入和输出通道](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E4%B8%AA%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA%E9%80%9A%E9%81%93)
         - [多个输入通道](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E4%B8%AA%E8%BE%93%E5%85%A5%E9%80%9A%E9%81%93)
         - [多个输出通道](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E4%B8%AA%E8%BE%93%E5%87%BA%E9%80%9A%E9%81%93)
-        - [*1卷积核](./chapter_convolutional-neural-networks/.md#1%E5%8D%B7%E7%A7%AF%E6%A0%B8)
+        - [一乘一卷积核](./chapter_convolutional-neural-networks/.md#%E4%B8%80%E4%B9%98%E4%B8%80%E5%8D%B7%E7%A7%AF%E6%A0%B8)
         - [总结](./chapter_convolutional-neural-networks/.md#%E6%80%BB%E7%BB%93)
         - [多通道代码](./chapter_convolutional-neural-networks/.md#%E5%A4%9A%E9%80%9A%E9%81%93%E4%BB%A3%E7%A0%81)
     - [池化层](./chapter_convolutional-neural-networks/.md#%E6%B1%A0%E5%8C%96%E5%B1%82)
