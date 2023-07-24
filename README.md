@@ -1,6 +1,6 @@
 <!--
  * @Author       : JonnyZhang 71881972+jonnyzhang02@users.noreply.github.com
- * @LastEditTime : 2023-07-23 20:53
+ * @LastEditTime : 2023-07-23 22:36
  * @FilePath     : \d2l-zh-pytorch\README.md
  * 
  * coded by ZhangYang@BUPT, my email is zhangynag0207@bupt.edu.cn
@@ -45,6 +45,10 @@
     - [使用和购买GPU](./chapter_deep-learning-computation/.md#%E4%BD%BF%E7%94%A8%E5%92%8C%E8%B4%AD%E4%B9%B0gpu)
 
 7.23 完成
+
+## [chapter_convolutional-neural-networks-卷积神经网络](./chapter_convolutional-neural-networks/.md)  
+
+
 
 
 
